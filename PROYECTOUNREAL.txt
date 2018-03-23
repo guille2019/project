@@ -1,0 +1,9 @@
+Buenas Fran,
+Finalmente hemos optado por hacerte un Drive, ya que con GitHub Desktop hemos tenido problemas des de la tarde.
+Principalmente nos salia el error:
+commit failed - exit code 1 received 
+Luego pensando que era tema de espacio, hemos vaciado el proyecto todo lo que hemos podido, pero aún así solo nos ha dejado subir el pdf.
+También hemos intentado via GitHub web pero no dejaba subir archivos de más de 25MB.
+
+Te dejamos aquí el enlace:
+https://drive.google.com/open?id=1T8ihSg3vpxwzJMfJnGcUfFctfodcRLSI
